@@ -1,0 +1,15 @@
+C:\GiorgiRepositories\CommSchool_ 1\bin\Debug\net6.0\CommSchool_ 1.exe
+C:\GiorgiRepositories\CommSchool_ 1\bin\Debug\net6.0\CommSchool_ 1.deps.json
+C:\GiorgiRepositories\CommSchool_ 1\bin\Debug\net6.0\CommSchool_ 1.runtimeconfig.json
+C:\GiorgiRepositories\CommSchool_ 1\bin\Debug\net6.0\CommSchool_ 1.dll
+C:\GiorgiRepositories\CommSchool_ 1\bin\Debug\net6.0\CommSchool_ 1.pdb
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.csproj.AssemblyReference.cache
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.AssemblyInfoInputs.cache
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.AssemblyInfo.cs
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.csproj.CoreCompileInputs.cache
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.dll
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\refint\CommSchool_ 1.dll
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.pdb
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\CommSchool_ 1.genruntimeconfig.cache
+C:\GiorgiRepositories\CommSchool_ 1\obj\Debug\net6.0\ref\CommSchool_ 1.dll
