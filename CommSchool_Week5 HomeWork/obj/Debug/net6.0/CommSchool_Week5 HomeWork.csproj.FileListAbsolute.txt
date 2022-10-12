@@ -1,0 +1,15 @@
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\bin\Debug\net6.0\CommSchool_Week5 HomeWork.exe
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\bin\Debug\net6.0\CommSchool_Week5 HomeWork.deps.json
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\bin\Debug\net6.0\CommSchool_Week5 HomeWork.runtimeconfig.json
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\bin\Debug\net6.0\CommSchool_Week5 HomeWork.dll
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\bin\Debug\net6.0\CommSchool_Week5 HomeWork.pdb
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.csproj.AssemblyReference.cache
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.AssemblyInfoInputs.cache
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.AssemblyInfo.cs
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.csproj.CoreCompileInputs.cache
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.dll
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\refint\CommSchool_Week5 HomeWork.dll
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.pdb
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\CommSchool_Week5 HomeWork.genruntimeconfig.cache
+C:\GiorgiRepositories\CommSchool_Week5 HomeWork\obj\Debug\net6.0\ref\CommSchool_Week5 HomeWork.dll
