@@ -1,0 +1,15 @@
+C:\GiorgiRepositories\tassk 2\bin\Debug\net6.0\tassk 2.exe
+C:\GiorgiRepositories\tassk 2\bin\Debug\net6.0\tassk 2.deps.json
+C:\GiorgiRepositories\tassk 2\bin\Debug\net6.0\tassk 2.runtimeconfig.json
+C:\GiorgiRepositories\tassk 2\bin\Debug\net6.0\tassk 2.dll
+C:\GiorgiRepositories\tassk 2\bin\Debug\net6.0\tassk 2.pdb
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.csproj.AssemblyReference.cache
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.AssemblyInfoInputs.cache
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.AssemblyInfo.cs
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.csproj.CoreCompileInputs.cache
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.dll
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\refint\tassk 2.dll
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.pdb
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\tassk 2.genruntimeconfig.cache
+C:\GiorgiRepositories\tassk 2\obj\Debug\net6.0\ref\tassk 2.dll
