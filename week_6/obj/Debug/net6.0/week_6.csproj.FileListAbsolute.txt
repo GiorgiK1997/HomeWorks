@@ -1,0 +1,15 @@
+C:\GiorgiRepositories\week_6\bin\Debug\net6.0\week_6.exe
+C:\GiorgiRepositories\week_6\bin\Debug\net6.0\week_6.deps.json
+C:\GiorgiRepositories\week_6\bin\Debug\net6.0\week_6.runtimeconfig.json
+C:\GiorgiRepositories\week_6\bin\Debug\net6.0\week_6.dll
+C:\GiorgiRepositories\week_6\bin\Debug\net6.0\week_6.pdb
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.csproj.AssemblyReference.cache
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.AssemblyInfoInputs.cache
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.AssemblyInfo.cs
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.csproj.CoreCompileInputs.cache
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.dll
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\refint\week_6.dll
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.pdb
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\week_6.genruntimeconfig.cache
+C:\GiorgiRepositories\week_6\obj\Debug\net6.0\ref\week_6.dll
