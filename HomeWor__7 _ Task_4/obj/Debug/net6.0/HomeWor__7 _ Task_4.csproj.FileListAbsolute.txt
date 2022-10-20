@@ -1,0 +1,15 @@
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\bin\Debug\net6.0\HomeWor__7 _ Task_4.exe
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\bin\Debug\net6.0\HomeWor__7 _ Task_4.deps.json
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\bin\Debug\net6.0\HomeWor__7 _ Task_4.runtimeconfig.json
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\bin\Debug\net6.0\HomeWor__7 _ Task_4.dll
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\bin\Debug\net6.0\HomeWor__7 _ Task_4.pdb
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.csproj.AssemblyReference.cache
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.AssemblyInfoInputs.cache
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.AssemblyInfo.cs
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.csproj.CoreCompileInputs.cache
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.dll
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\refint\HomeWor__7 _ Task_4.dll
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.pdb
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\HomeWor__7 _ Task_4.genruntimeconfig.cache
+C:\GiorgiRepositories\HomeWor__7 _ Task_4\obj\Debug\net6.0\ref\HomeWor__7 _ Task_4.dll
