@@ -1,17 +1,31 @@
-﻿namespace CommSchool__1
+﻿namespace HomeWork__7_Task_1
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("Hello User");
-            Console.WriteLine("please enter your name ");
-            Console.ReadLine();
-            Console.WriteLine("please enter your last name ");
-            Console.ReadLine();
-            Console.WriteLine("thansk");
+           
+            string word = Console.ReadLine();
+            bool result = true;
+            for (int i = 0; i < word.Length; i++)
+            {
+                if (word[i] != word[0])
+                {
+                    result = false;
+                }
+                
+            }
+            if(result == false)
+            {
+                Console.WriteLine(" you lost");
+            }
+            else
+            {
+                Console.WriteLine(" you win jakpot");
+            }
+           
+            
 
-        } 
+        }
     }
 }
