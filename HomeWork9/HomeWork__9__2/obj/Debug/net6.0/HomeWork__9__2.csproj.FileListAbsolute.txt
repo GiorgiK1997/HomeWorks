@@ -1,0 +1,15 @@
+C:\GiorgiRepositories\HomeWork__9__2\bin\Debug\net6.0\HomeWork__9__2.exe
+C:\GiorgiRepositories\HomeWork__9__2\bin\Debug\net6.0\HomeWork__9__2.deps.json
+C:\GiorgiRepositories\HomeWork__9__2\bin\Debug\net6.0\HomeWork__9__2.runtimeconfig.json
+C:\GiorgiRepositories\HomeWork__9__2\bin\Debug\net6.0\HomeWork__9__2.dll
+C:\GiorgiRepositories\HomeWork__9__2\bin\Debug\net6.0\HomeWork__9__2.pdb
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.csproj.AssemblyReference.cache
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.AssemblyInfoInputs.cache
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.AssemblyInfo.cs
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.csproj.CoreCompileInputs.cache
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.dll
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\refint\HomeWork__9__2.dll
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.pdb
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\HomeWork__9__2.genruntimeconfig.cache
+C:\GiorgiRepositories\HomeWork__9__2\obj\Debug\net6.0\ref\HomeWork__9__2.dll
