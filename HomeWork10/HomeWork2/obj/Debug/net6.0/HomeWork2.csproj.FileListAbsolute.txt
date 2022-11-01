@@ -1,0 +1,15 @@
+C:\GiorgiRepositories\TestInterfaces\bin\Debug\net6.0\HomeWork2.exe
+C:\GiorgiRepositories\TestInterfaces\bin\Debug\net6.0\HomeWork2.deps.json
+C:\GiorgiRepositories\TestInterfaces\bin\Debug\net6.0\HomeWork2.runtimeconfig.json
+C:\GiorgiRepositories\TestInterfaces\bin\Debug\net6.0\HomeWork2.dll
+C:\GiorgiRepositories\TestInterfaces\bin\Debug\net6.0\HomeWork2.pdb
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.csproj.AssemblyReference.cache
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.AssemblyInfoInputs.cache
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.AssemblyInfo.cs
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.csproj.CoreCompileInputs.cache
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.dll
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\refint\HomeWork2.dll
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.pdb
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\HomeWork2.genruntimeconfig.cache
+C:\GiorgiRepositories\TestInterfaces\obj\Debug\net6.0\ref\HomeWork2.dll
